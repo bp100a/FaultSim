@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FaultSim">
+</Property><Property Name="Solution File" Value="F:\old code\Faultsim\FaultSim\FaultSim.sln">
+</Property><Property Name="Date" Value="Friday, July 20, 2007">
+</Property><Property Name="Time" Value="17:53:49 PM">
+</Property></Properties><Event ErrorLevel="2" Project="FaultSim" Source="FaultSim.mak" Description="The project file 'F:\old code\Faultsim\FaultSim\FaultSim.mak' cannot be updated to this Visual Studio 2005 version format because it is read-only on disk. Please set the permissions on the project file and re-open it to migrate the project.">
+</Event></UpgradeLog>
